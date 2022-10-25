@@ -1,4 +1,4 @@
-# Precipitation Climatology of Virginia
+# Comparison of Reanalysis and Observational Precipitation in Virginia
  
 ### Desmond Gray
 #### CLIM 680 - Fall 2022
