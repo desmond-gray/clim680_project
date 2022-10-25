@@ -24,7 +24,7 @@ of atmospheric, land, and oceanic climate variables from Jan 1959 to present.  I
 ## Proposed Analysis
 I plan to use the data sets above to conduct the following analysis:
 * Calculate mean, climatology and anomalies of precipitation
-* Compare geographical differences and how extremes differ between datasets
+* Calculate composites of precipitation based on geographical differences
 
 ### Functions
 I will create a set of functions for doing common tasks used throughout my analysis, including:
