@@ -38,4 +38,4 @@ I will create a set of functions for doing common tasks used throughout my analy
 
 The image below shows the GPCP Yearly Mean for 1979 - 2015. I will be slicing this data to only show Virginia. I also plan on displaying the highest/lowest months and plotting anomalies over this timespan. This will also be done with the ERA5 dataset and the two will be compared.
 
-! [GPCP Image](https://github.com/desmond-gray/clim680_project/blob/master/gpcp_1979-2015.png)
+![GPCP Image](https://github.com/desmond-gray/clim680_project/blob/master/gpcp_1979-2015.png)
